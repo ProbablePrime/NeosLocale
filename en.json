@@ -1401,6 +1401,7 @@
         "Exiting.SavingChanges" : "Saving Changes...",
         "Exiting.Exiting" : "Exiting...",
         "Exiting.LoggingOut" : "Logging out...",
+        "cheese": "cheese",
 
         "Dummy" : "Dummy"
     }
